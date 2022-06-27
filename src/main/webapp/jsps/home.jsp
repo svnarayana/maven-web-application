@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies - GitHub Webhook Demo  .....</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......This is about POLL SCM TEST</h1>
+<h1 align="center"> Welcome to Mithun Software Solutions.......This is about GitHub Webhook Demo  .....</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
