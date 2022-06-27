@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.225.53:8081/repository/amazon-Releases/</url>
+	      <name>Amazon Releases Nexus Repository</name>
+	      <url>http://13.232.23.10:8081/repository/amazon-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.225.53:8081/repository/Amazon-Snapshots/</url>
+	      <name>Amazon Snapshot Nexus Repository </name>
+	      <url>http://13.232.23.10:8081/repository/Amazon-Snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
